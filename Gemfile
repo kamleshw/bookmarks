@@ -39,4 +39,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 #Manually added gemfile for authentication
-#gem 'devise', '~> 3.0.0.rc'
+gem 'devise', '~> 3.0.0.rc'
